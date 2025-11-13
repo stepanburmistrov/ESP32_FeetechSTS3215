@@ -18,7 +18,7 @@ STS3215) по шине UART1 на **ESP32**.
 
 
 > ⚠️Ссылки на компоненты в моем телеграм-канале:\
->       https://t.me/burmistrov_robotics
+>       https://t.me/burmistrov_robotics/705
 
 ![protocol](img/connect.png)
 
